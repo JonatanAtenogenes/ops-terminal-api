@@ -20,7 +20,9 @@
   "packageManager": "pnpm@12.21.0+sha512.66fd8278ee28935ce951792d34367ff3af5c432a2756445823029533835b8da529bbe0be5130afd56ed0713fb8789e47bad82d93bd5ae2fe54b15562d6276ef0",
   "dependencies": {
     "@hono/node-server": "^2.1.8",
-    "hono": "^4.13.18"
+    "@supabase/supabase-js": "^2.119.0",
+    "hono": "^4.13.18",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",
